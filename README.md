@@ -1,5 +1,1 @@
-* 产生数组
-    * 普通数字
-    * 计算3的倍数
-    * 计算5的倍数
-* 打印数组
+* see http://codingdojo.org/kata/FizzBuzz/
